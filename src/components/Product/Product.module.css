@@ -1,0 +1,22 @@
+.product {
+    margin: 5px;
+    padding: 20px 10px;
+    width: calc(100% / 3 - 10px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid ghostwhite;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.product h3, .product p {
+    text-align: center;
+    margin: 2px 0;
+}
+
+.product div {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}

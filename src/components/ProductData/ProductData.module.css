@@ -1,0 +1,4 @@
+.productData, .productData__comment {
+    display: flex;
+    flex-direction: column;
+}

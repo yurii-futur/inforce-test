@@ -1,0 +1,14 @@
+.detail {
+    display: flex;
+    justify-content: center;
+}
+
+.detail__link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    background: #dff2fc;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+}
