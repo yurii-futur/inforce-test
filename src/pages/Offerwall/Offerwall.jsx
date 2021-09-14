@@ -16,7 +16,7 @@ const Offerwall = ({products, setVisible, removeProduct, onChange}) => {
                 })}
                 
             </div>  :
-            <h2>No products!</h2>
+            <h2 style={{textAlign: 'center', marginTop: '10px'}}>No products!</h2>
             }
         </>
         
